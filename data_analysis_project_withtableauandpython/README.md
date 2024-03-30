@@ -8,7 +8,7 @@ Using this data set, we will first start processing with Python and then move on
 
 In this project, data collection, discovery and processing were primarily done with Python. Then, the dashboard was prepared after creating Average visualization, Total driving visualization, Temperature and wind speed heat map, Weather and hour bar charts in Tableau.
 
-![Resim Açıklaması](pythonn.pngpng)
+![Resim Açıklaması](pythonn.png)
 
 ## Libraries
 
@@ -39,7 +39,7 @@ In this project, data collection, discovery and processing were primarily done w
 
 You can download the data from Kaggle (https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset).
 
-![Resim Açıklaması](dashboard.pngpng)
+![Resim Açıklaması](dashboard.png)
 
 ## Website
 
