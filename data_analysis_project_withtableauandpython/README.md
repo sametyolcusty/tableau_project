@@ -43,4 +43,4 @@ You can download the data from Kaggle (https://www.kaggle.com/datasets/hmavrodie
 
 ## Website
 
-For more information about the project, visit my website (https://www.sametyolcu.com/portfolio).
+For more information about the project, visit my website (https://sametyolcu.com/london-bike-rides-project).
